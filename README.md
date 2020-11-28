@@ -1,7 +1,7 @@
 # LionLion1905-Ddos-V1.0
 DDOS saldırıları için test yapabileceğiniz yazılım.
 
-Not:Tüm sorumluluk kullanıcıya aittir.
+Not:Tüm sorumluluk kullanıc aittir
 
 Kurulum:
 
