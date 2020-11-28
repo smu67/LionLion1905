@@ -7,7 +7,7 @@ os.system("clear")
 banner="""
 ##########################
 #LionLion1905 Ddos V1.0  #
-#Code by Rei-ken         #
+#Code by LionLion1905    #
 ##########################
 
 
